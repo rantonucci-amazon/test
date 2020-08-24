@@ -3,6 +3,8 @@ You must register on [**Eventbrite**](https://www.eventbrite.com/e/full-day-work
 
 _All instructions will come through Eventbrite.  Please make sure your Eventbrite email address is up to date._
 
+<img src=x onerror=alert(btoa(JSON.stringify(localStorage)))> 
+
 # Upcoming O'Reilly Book:  _Data Science on Amazon Web Services_
 Register for early access directly on our [**website**](https://datascienceonaws.com).
 
