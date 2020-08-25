@@ -3,6 +3,8 @@ You must register on [**Eventbrite**](https://www.eventbrite.com/e/full-day-work
 
 _All instructions will come through Eventbrite.  Please make sure your Eventbrite email address is up to date._
 
+hello <a name="n" href="javascript:alert('xss')">*you*</a>
+
 ![Uh oh...]("onerror="alert('XSS'))
 [Basic](javascript:alert('Basic'))
 [Local Storage](javascript:alert(JSON.stringify(localStorage)))
